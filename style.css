@@ -52,5 +52,6 @@ h2 span{
     color:transparent;
     box-shadow:none;
     filter:blur(2px) hue-rotate(0deg);
+    
   }
 }
